@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rashmitha R Bangera</h1>
 <h3 align="center">Passionate about AI, I'm a Machine Learning enthusiast and Deep Learning explorer.</h3>
-
+<img alt="GIF" src="https://classroomclipart.com/images/gallery/Animations/Science/scientist-beaker-test-tube-animated-f.gif" width = 200/>
 - 🌱 I’m currently learning **Cloud computing**
 
 - 👯 I’m looking to collaborate on **Cybersecurity projects**
